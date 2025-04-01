@@ -1,8 +1,8 @@
-# setLinked - Implementacja zbioru przy użyciu listy jednokierunkowej
+# setLinked - Implementacja zbioru przy użyciu sortowanej listy jednokierunkowej
 
 ## Opis
 
-`setLinked` to implementacja struktury danych zbioru (set) w języku C++ z wykorzystaniem listy jednokierunkowej (linked list). Zbiór przechowuje elementy w sposób posortowany, nie dopuszczając duplikatów. Zaimplementowane operacje obejmują dodawanie elementów, usuwanie, sprawdzanie zawartości oraz wykonywanie operacji na zbiorach, takich jak suma, różnica i część wspólna.
+`setLinked` to implementacja struktury danych zbioru (set) w języku C++ z wykorzystaniem sortowanej listy jednokierunkowej (sorted linked list). Zbiór przechowuje elementy w sposób posortowany, nie dopuszczając duplikatów. Zaimplementowane operacje obejmują dodawanie elementów, usuwanie, sprawdzanie zawartości oraz wykonywanie operacji na zbiorach, takich jak suma, różnica i część wspólna.
 
 ## Funkcjonalności
 
