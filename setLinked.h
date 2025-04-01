@@ -134,6 +134,16 @@ public:
         }
         return result;
     }
+
+    void print() const {
+        Node* current = head;
+        std::cout << "Zawartość listy: ";
+        while (current != nullptr) {
+            std::cout << current->value << " ";
+            current = current->next;
+        }
+        std::cout << std::endl;
+    }
 };
 
 
